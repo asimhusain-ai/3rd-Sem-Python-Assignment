@@ -1,0 +1,10 @@
+str = 'Asim husain'
+print(len(str))
+print(str.upper())
+print(str.lower())
+print(str.strip())
+print(str.count("A"))
+print(str.find("h"))
+print(str.title())
+print(str.split())
+print(str.replace("Asim Husain","Husain Asim"))
